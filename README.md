@@ -4,6 +4,9 @@ Calculadora simples com intuito simples:
 Como utilizar: 
 - No espaço com a caixa para texto, digite números e sinais de operações matemáticas básicas para obter os resultados. (Letras, símbolos, espaços em branco ou qualquer caractere diferente de números e sinais de operações são rejeitados.)
 
+Status atual do Software: 
+- Em desenvolvimento
+
 Desenvolvedores da calculadora API: 
 - Emanuel Ferreira;
 - Glauco Eduardo;

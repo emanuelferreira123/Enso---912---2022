@@ -1,13 +1,13 @@
-Calculadora simples com intuito simples: 
+Calculadora simples com intuito simples 🖩🖩: 
 - efetuar as 4 operações (Soma, subtração, multiplicação, divisão.)
 
-Como utilizar: 
+Como utilizar🧑: 
 - No espaço com a caixa para texto, digite números e sinais de operações matemáticas básicas para obter os resultados. (Letras, símbolos, espaços em branco ou qualquer caractere diferente de números e sinais de operações são rejeitados.)
 
-Status atual do Software: 
+Status atual do Software 📜: 
 - Em desenvolvimento
 
-Desenvolvedores da calculadora API: 
+Desenvolvedores da calculadora API 👨‍💻: 
 - Emanuel Ferreira;
 - Glauco Eduardo;
 - Miquéias da Silva;

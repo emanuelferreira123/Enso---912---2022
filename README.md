@@ -12,3 +12,5 @@ Desenvolvedores da calculadora API 👨‍💻:
 - Glauco Eduardo;
 - Miquéias da Silva;
 - Namur Sebastião.
+
+-Intuito simples, além de prático.

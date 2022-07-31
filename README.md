@@ -13,4 +13,4 @@ Desenvolvedores da calculadora API:
 - Miquéias da Silva;
 - Namur Sebastião.
 
-Intuito simples e uso prático.
+-Intuito simples, além de prático.
